@@ -1,0 +1,7 @@
+identifier,sector,rating,par_amount,price,yield_to_worst,modified_duration,spread_duration,spread
+UST_2029,Government,AAA,200000,99.2,0.041,2.1,0.0,0.0
+IG_TECH_2031,Corporate,BBB,150000,101.5,0.056,4.8,4.5,0.013
+MBS_POOL_A,Securitized,AA,175000,98.7,0.049,3.2,2.5,0.009
+HY_ENERGY_2030,Corporate,BB,90000,95.4,0.083,3.9,3.7,0.031
+MUNI_2032,Municipal,A,110000,100.8,0.044,5.6,4.8,0.011
+ABS_AUTO_2028,Securitized,AAA,80000,100.2,0.047,1.9,1.5,0.007

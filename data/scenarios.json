@@ -1,0 +1,6 @@
+{
+  "rates_up_100bp": {"rate_change": 0.01, "spread_change": 0.0},
+  "spread_widen_50bp": {"rate_change": 0.0, "spread_change": 0.005},
+  "risk_off_combo": {"rate_change": 0.005, "spread_change": 0.01},
+  "bull_steepener_like": {"rate_change": -0.0075, "spread_change": -0.0025}
+}
